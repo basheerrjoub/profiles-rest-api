@@ -53,17 +53,6 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-### Vagrant ###
-# General
-.vagrant/
-
-# Log files (if you are creating logs in debug mode, uncomment this)
-# *.log
-
-### Vagrant Patch ###
-*.box
-
-
 # Unit test / coverage reports
 htmlcov/
 .tox/
